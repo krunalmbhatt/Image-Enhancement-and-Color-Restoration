@@ -1,1 +1,2 @@
-# Image-Enhancement-and-Color-Restoration
+# Underwater Image enhancement and restoration
+The work shown in this repository is novel and was developed by me during my summer internship in the summer of 2022. A novel approach is presented in here where the image is being restored to the original colors and the pipeline implemented to generate the desired output is unique. Though classical methods are used in this approach, the pipeline implemented is novel and solves the problem at hand. It was a great experience working at Andromeida Maritime Solutions Pvt. Ltd., Noida, India. 
